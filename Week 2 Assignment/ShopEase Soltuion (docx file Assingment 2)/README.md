@@ -36,7 +36,7 @@ status values), and `FOREIGN KEY` relationships enforcing referential integrity.
 
 ## How to run the SQL script
 
-1. Open `answers.sql` in MySQL Workbench (or run via `mysql` CLI).
+1. Open `ShopEase_Solutions.sql` in MySQL Workbench (or run via `mysql` CLI).
 2. Execute top to bottom — it creates the database, loads sample data, then runs
    each question's query in order.
 3. **Q6 is expected to raise a CHECK error** (inserting `unit_price = -50`) — that
@@ -63,4 +63,4 @@ status values), and `FOREIGN KEY` relationships enforcing referential integrity.
 
 ---
 
-*Submitted as Week 2 assignment — Celebal Summer Internship 2026.*
+*Submitted as Week 2 assignment — Celebal Summer Internship Program 2026.*
