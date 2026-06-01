@@ -10,7 +10,7 @@ task covers schema design, filtering, aggregation, joins, and advanced concepts
 
 | File | What it is |
 |------|------------|
-| `answers.sql` | **Primary deliverable.** The complete MySQL script — schema, sample data, and all 27 answers. Run this in MySQL Workbench (or any MySQL client) to reproduce every result. |
+| `ShopEase_Solutions.sql` | **Primary deliverable.** The complete MySQL script — schema, sample data, and all 27 answers. Run this in MySQL Workbench (or any MySQL client) to reproduce every result. |
 | `ShopEase_Solutions.ipynb` | A rendered companion notebook (pandas + SQLite). Shows each question, its query, and the **output table** inline, so results are visible on GitHub without running anything. |
 
 > The `.sql` file is the authoritative answer set and targets **MySQL** as the task
