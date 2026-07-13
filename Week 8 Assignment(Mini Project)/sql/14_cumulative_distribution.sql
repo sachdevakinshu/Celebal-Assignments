@@ -1,5 +1,4 @@
 -- Q14 (Advanced): Cumulative revenue distribution - what share of total
--- revenue comes from the top N% of customers (Pareto analysis).
 WITH customer_revenue AS (
     SELECT
         o.customer_id,

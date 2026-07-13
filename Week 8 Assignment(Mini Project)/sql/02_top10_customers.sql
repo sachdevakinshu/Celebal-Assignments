@@ -1,5 +1,4 @@
 -- Q2 (Basic): Top 10 customers by total order value
--- Guest orders (customer_id IS NULL) are excluded via the INNER JOIN.
 SELECT
     c.customer_id,
     c.customer_name,

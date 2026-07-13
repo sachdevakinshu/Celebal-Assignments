@@ -1,5 +1,4 @@
 -- Q8 (Advanced): Rank products by total revenue within each category.
--- DENSE_RANK so products with the same revenue share the same rank.
 WITH product_revenue AS (
     SELECT
         p.category,

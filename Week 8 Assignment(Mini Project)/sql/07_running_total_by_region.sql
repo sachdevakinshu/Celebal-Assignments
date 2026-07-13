@@ -1,5 +1,4 @@
 -- Q7 (Advanced): Running total of revenue per region, ordered by date
--- Window function: SUM() OVER (PARTITION BY region ORDER BY date)
 WITH daily AS (
     SELECT
         o.region_code,

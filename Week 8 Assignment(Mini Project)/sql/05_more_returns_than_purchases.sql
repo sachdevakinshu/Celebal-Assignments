@@ -1,5 +1,4 @@
 -- Q5 (Intermediate): Products that were ordered but had more returned units
--- than purchased units (negative quantity = return)
 SELECT
     p.product_id,
     p.product_name,

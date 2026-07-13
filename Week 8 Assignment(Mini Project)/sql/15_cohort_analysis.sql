@@ -1,5 +1,4 @@
 -- Q15 (Advanced): Cohort analysis by registration month.
--- month_n = customers of the cohort who ordered n months after registering.
 WITH cohort AS (
     SELECT
         customer_id,

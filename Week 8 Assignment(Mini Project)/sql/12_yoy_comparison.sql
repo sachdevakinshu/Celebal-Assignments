@@ -1,5 +1,4 @@
 -- Q12 (Advanced): Year-over-Year monthly revenue comparison.
--- LEFT JOIN so months with no previous-year data still appear (growth = NULL).
 WITH monthly AS (
     SELECT
         CAST(strftime('%Y', o.order_date) AS INTEGER) AS year,

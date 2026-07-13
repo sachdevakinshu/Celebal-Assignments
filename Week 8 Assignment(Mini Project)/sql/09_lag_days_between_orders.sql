@@ -1,5 +1,4 @@
 -- Q9 (Advanced): LAG analysis - days between consecutive orders per customer.
--- Customers whose AVERAGE gap exceeds 30 days are flagged 'At Risk'.
 WITH gaps AS (
     SELECT
         o.customer_id,

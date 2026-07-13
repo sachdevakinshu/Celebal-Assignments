@@ -1,5 +1,4 @@
 -- Q13 (Advanced): First vs most recent purchased category per customer.
--- FIRST_VALUE / LAST_VALUE with a full-partition frame; flag category shifts.
 WITH purchases AS (
     SELECT
         o.customer_id,
