@@ -1,0 +1,501 @@
+category,product_name,total_revenue,rank_in_category
+Books,Brown Vintage Guidebook,49037.64,1
+Books,Bell Modern Guidebook,40447.57,2
+Books,Turner Pro Textbook,38100.77,3
+Books,Fernandez Eco Guidebook,35799.42,4
+Books,Hardin Pro Cookbook,35162.05,5
+Books,Baker Ultra Encyclopedia,32810.41,6
+Books,Moore Compact Textbook,32394.36,7
+Books,James Premium Guidebook,32006.14,8
+Books,Walters Compact Atlas,31985.63,9
+Books,Moore Deluxe Biography,30879.93,10
+Books,Holmes Eco Atlas,29452.27,11
+Books,Reese Smart Cookbook,29061.38,12
+Books,Schmidt Pro Comic Book,28983.18,13
+Books,Murphy Essential Biography,28741.43,14
+Books,Reed Classic Textbook,28214.6,15
+Books,Scott Vintage Textbook,28086.76,16
+Books,Johnson Compact Cookbook,28079.85,17
+Books,Jones Compact Biography,27616.94,18
+Books,Mcintosh Portable Anthology,27544.72,19
+Books,Velez Premium Novel,27261.16,20
+Books,Charles Deluxe Novel,24859.53,21
+Books,Mcclain Eco Biography,24709.46,22
+Books,Taylor Portable Comic Book,24605.81,23
+Books,Smith Ultra Atlas,24605.29,24
+Books,Atkinson Premium Encyclopedia,24323.41,25
+Books,Green Deluxe Anthology,23806.49,26
+Books,Bartlett Modern Atlas,23203.27,27
+Books,Jackson Ultra Comic Book,23191.87,28
+Books,Cohen Vintage Textbook,23061.81,29
+Books,Dennis Classic Journal,22863.05,30
+Books,Lewis Vintage Textbook,22782.29,31
+Books,Howard Pro Encyclopedia,21061.2,32
+Books,Montoya Vintage Biography,20744.01,33
+Books,Garcia Classic Comic Book,20303.43,34
+Books,Costa Vintage Biography,20277.41,35
+Books,Hampton Classic Encyclopedia,20086.03,36
+Books,Maynard Compact Comic Book,19851.08,37
+Books,Ware Pro Comic Book,19492.32,38
+Books,Pace Modern Novel,19489.51,39
+Books,Coleman Eco Cookbook,19403.7,40
+Books,Reynolds Essential Novel,19381.44,41
+Books,Hall Modern Cookbook,19167.01,42
+Books,King Eco Textbook,18018.56,43
+Books,Davis Portable Textbook,17952.98,44
+Books,Gonzalez Eco Biography,17473.98,45
+Books,Jones Pro Biography,17256.11,46
+Books,Spencer Essential Comic Book,17140.33,47
+Books,Potter Deluxe Cookbook,17090.1,48
+Books,Carr Ultra Textbook,17086.91,49
+Books,Scott Deluxe Guidebook,16227.15,50
+Books,Cameron Portable Guidebook,16224.09,51
+Books,Gregory Classic Novel,16029.05,52
+Books,Hunter Compact Anthology,15955.27,53
+Books,Williams Essential Journal,15917.01,54
+Books,Wright Vintage Cookbook,15479.34,55
+Books,Gomez Smart Guidebook,15187.69,56
+Books,Ward Pro Textbook,15172.2,57
+Books,Nielsen Eco Journal,13824.22,58
+Books,Robertson Deluxe Textbook,13748.22,59
+Books,Allen Compact Atlas,13325.48,60
+Books,Matthews Compact Encyclopedia,13010.36,61
+Books,Wilson Eco Guidebook,12797.83,62
+Books,Allen Eco Novel,12752.36,63
+Books,Bradley Smart Journal,12540.18,64
+Books,Crosby Portable Cookbook,12471.16,65
+Books,Williams Smart Atlas,12238.34,66
+Books,Young Smart Cookbook,11958.97,67
+Books,Rubio Modern Textbook,11802.16,68
+Books,Johns Portable Textbook,11686.79,69
+Books,Stephens Compact Comic Book,11476.76,70
+Books,Macdonald Classic Atlas,11231.82,71
+Books,Ayala Premium Journal,10782.35,72
+Books,Mclaughlin Pro Guidebook,10690.89,73
+Books,Brooks Premium Novel,10327.6,74
+Books,Price Portable Novel,10149.33,75
+Books,Robinson Eco Novel,10076.3,76
+Books,Stewart Modern Novel,10044.32,77
+Books,Roberts Eco Textbook,9884.6,78
+Books,Jones Essential Biography,9806.88,79
+Books,Powers Pro Comic Book,9800.06,80
+Books,Ayala Smart Guidebook,9505.15,81
+Books,Hill Essential Textbook,9097.71,82
+Books,Ramos Premium Anthology,9024.4,83
+Books,Douglas Vintage Journal,8355.91,84
+Books,Thompson Modern Cookbook,8352.32,85
+Books,Campbell Pro Journal,8274.15,86
+Books,Brennan Smart Encyclopedia,8165.81,87
+Books,Thomas Eco Comic Book,8163.69,88
+Books,Mack Portable Novel,8157.8,89
+Books,Miller Eco Guidebook,7030.82,90
+Books,Thompson Compact Encyclopedia,6960.46,91
+Books,Hansen Vintage Textbook,6643.87,92
+Books,Miller Premium Textbook,6642.64,93
+Books,Wells Modern Guidebook,6552.89,94
+Books,Mitchell Pro Encyclopedia,6397.59,95
+Books,Dixon Deluxe Cookbook,6352.63,96
+Books,Branch Modern Comic Book,6022.81,97
+Books,Lane Compact Novel,5467.12,98
+Books,Joseph Vintage Novel,5103.35,99
+Books,Mays Portable Comic Book,5020.24,100
+Books,Kaufman Essential Comic Book,5008.6,101
+Books,Rich Smart Textbook,5001.65,102
+Books,Charles Classic Cookbook,4851.64,103
+Books,Nicholson Smart Anthology,4842.11,104
+Books,Arnold Modern Biography,4769.28,105
+Books,Logan Portable Biography,4715.5,106
+Books,Hale Vintage Cookbook,4606.74,107
+Books,Johnson Premium Anthology,4420.82,108
+Books,Black Deluxe Cookbook,3724.81,109
+Books,Montoya Compact Journal,3121.27,110
+Books,Vincent Compact Biography,2825.62,111
+Books,Sullivan Classic Novel,2762.45,112
+Books,Parks Portable Anthology,2724.53,113
+Books,Ruiz Modern Anthology,2658.25,114
+Books,Mcbride Eco Anthology,2536.82,115
+Books,Williams Deluxe Novel,2312.8,116
+Books,Edwards Smart Cookbook,2229.78,117
+Books,Jackson Eco Textbook,2138.9,118
+Books,Kramer Compact Textbook,2087.32,119
+Books,White Portable Encyclopedia,1994.29,120
+Books,Perez Premium Biography,1789.39,121
+Books,Love Premium Biography,1694.38,122
+Books,Romero Ultra Biography,1269.94,123
+Books,Hicks Ultra Anthology,1103.23,124
+Books,Barnett Classic Novel,852.45,125
+Books,Knight Pro Cookbook,798.46,126
+Books,Krueger Essential Encyclopedia,656.59,127
+Books,Pierce Pro Journal,428.91,128
+Books,Taylor Premium Anthology,226.11,129
+Books,Hernandez Portable Cookbook,217.72,130
+Clothing,Ayala Ultra T-Shirt,57409.55,1
+Clothing,Taylor Ultra T-Shirt,51087.09,2
+Clothing,Braun Eco Dress,41071.67,3
+Clothing,Cannon Portable Cap,38519.44,4
+Clothing,Carter Compact Shorts,38269.17,5
+Clothing,Goodman Modern Dress,37672.65,6
+Clothing,Morgan Premium Sneakers,37568.36,7
+Clothing,Walsh Eco Jeans,36475.51,8
+Clothing,Gross Deluxe Cap,33582.75,9
+Clothing,Tyler Compact Socks,33493.18,10
+Clothing,Eaton Ultra Dress,32317.63,11
+Clothing,Mccarty Vintage Jacket,29863.61,12
+Clothing,Anderson Modern Scarf,29851.62,13
+Clothing,Lynn Ultra T-Shirt,28496.74,14
+Clothing,Gray Deluxe Hoodie,28313.99,15
+Clothing,Wolfe Ultra Cap,28133.57,16
+Clothing,Miller Classic T-Shirt,27918.43,17
+Clothing,Garrett Smart Sweater,26880.82,18
+Clothing,Luna Portable Hoodie,26833.09,19
+Clothing,Jenkins Modern Scarf,26512.43,20
+Clothing,Serrano Compact Dress,25940.16,21
+Clothing,Wilson Vintage Hoodie,25783.52,22
+Clothing,Craig Eco Shorts,25446.58,23
+Clothing,Valdez Essential Sweater,24395.55,24
+Clothing,Sullivan Vintage T-Shirt,24009.02,25
+Clothing,Davis Premium Sneakers,23913.0,26
+Clothing,Jennings Essential T-Shirt,22244.62,27
+Clothing,Ross Compact Hoodie,22155.39,28
+Clothing,Hartman Premium Sweater,22062.45,29
+Clothing,Brewer Modern Jacket,21808.07,30
+Clothing,Cortez Classic Socks,21527.41,31
+Clothing,Medina Classic Jeans,21158.09,32
+Clothing,Ortiz Eco Cap,20252.5,33
+Clothing,Blackwell Portable Scarf,19671.78,34
+Clothing,Roth Premium T-Shirt,19387.05,35
+Clothing,Harris Ultra Sweater,19260.37,36
+Clothing,Schultz Smart Blazer,18864.97,37
+Clothing,Sullivan Deluxe Dress,18650.82,38
+Clothing,Floyd Ultra Dress,17875.8,39
+Clothing,Wilson Deluxe T-Shirt,17500.72,40
+Clothing,Owen Eco Cap,17403.09,41
+Clothing,Thompson Eco Jeans,17225.39,42
+Clothing,Jennings Vintage Cap,16402.53,43
+Clothing,Lambert Ultra Socks,16370.06,44
+Clothing,Clark Modern Jeans,16128.57,45
+Clothing,Sellers Compact Cap,16063.61,46
+Clothing,Sparks Pro Scarf,14838.69,47
+Clothing,Wilson Premium Shorts,14749.27,48
+Clothing,Brock Smart Dress,14568.33,49
+Clothing,Lee Compact Socks,14523.13,50
+Clothing,Galvan Modern Blazer,14210.46,51
+Clothing,Dunn Vintage Sweater,14119.88,52
+Clothing,Phillips Vintage Jacket,14066.32,53
+Clothing,Greene Ultra T-Shirt,13866.75,54
+Clothing,Wilson Deluxe Dress,13462.75,55
+Clothing,Jackson Classic Jeans,12794.87,56
+Clothing,Todd Ultra Jeans,12578.37,57
+Clothing,Ferguson Ultra Cap,11876.85,58
+Clothing,Townsend Compact Shorts,11259.4,59
+Clothing,Short Portable Shorts,10586.62,60
+Clothing,Rodriguez Ultra Hoodie,10248.88,61
+Clothing,Lynch Deluxe Sweater,9938.57,62
+Clothing,Watson Eco Sneakers,9734.72,63
+Clothing,Hopkins Essential Blazer,9606.92,64
+Clothing,Bowers Ultra Blazer,9483.17,65
+Clothing,Webb Compact Cap,9477.42,66
+Clothing,Bailey Premium Jacket,9040.73,67
+Clothing,Lane Compact Cap,8694.31,68
+Clothing,Gilbert Portable Jacket,8647.11,69
+Clothing,Cohen Essential Sneakers,8147.2,70
+Clothing,Simmons Deluxe Jacket,7925.74,71
+Clothing,Sosa Deluxe Sneakers,7919.1,72
+Clothing,Jones Essential Shorts,7837.72,73
+Clothing,Jones Smart Shorts,7534.65,74
+Clothing,Ramsey Pro Jacket,7415.81,75
+Clothing,Gonzalez Compact Jeans,7117.5,76
+Clothing,Barber Premium Scarf,7023.85,77
+Clothing,Clark Classic Dress,6329.46,78
+Clothing,Grant Portable T-Shirt,6189.07,79
+Clothing,Smith Compact Sneakers,6074.31,80
+Clothing,Long Smart Blazer,6016.86,81
+Clothing,Atkinson Ultra Jacket,5889.63,82
+Clothing,Alvarado Vintage Shorts,5669.86,83
+Clothing,Bonilla Smart Sneakers,5540.75,84
+Clothing,Smith Compact Dress,5396.2,85
+Clothing,Vargas Eco Cap,5328.63,86
+Clothing,Moody Compact Socks,5317.94,87
+Clothing,Wong Pro Socks,5212.44,88
+Clothing,Smith Vintage Socks,5097.77,89
+Clothing,Perry Deluxe Hoodie,5044.69,90
+Clothing,Powell Portable Dress,4955.73,91
+Clothing,Shaw Compact Hoodie,4798.0,92
+Clothing,Swanson Premium Blazer,4612.35,93
+Clothing,Sutton Essential Cap,4597.99,94
+Clothing,Wilson Premium Sweater,4184.33,95
+Clothing,Maldonado Portable T-Shirt,3984.46,96
+Clothing,Robinson Classic Sneakers,3976.93,97
+Clothing,Golden Essential Jeans,3381.16,98
+Clothing,Juarez Ultra Cap,3103.17,99
+Clothing,Saunders Pro Cap,3082.61,100
+Clothing,Green Modern Socks,2946.59,101
+Clothing,Garza Pro Jacket,2797.22,102
+Clothing,Aguilar Ultra Hoodie,2187.28,103
+Clothing,Hall Pro T-Shirt,2107.5,104
+Clothing,Jones Eco Scarf,1877.95,105
+Clothing,Reed Vintage Scarf,1358.52,106
+Clothing,Riley Smart Cap,1310.59,107
+Clothing,Morgan Vintage Hoodie,1115.58,108
+Clothing,Arias Modern Shorts,1016.36,109
+Clothing,Stewart Deluxe Scarf,1002.64,110
+Clothing,White Portable Hoodie,926.83,111
+Clothing,Bennett Ultra Jeans,837.23,112
+Clothing,Hammond Pro Sneakers,695.53,113
+Clothing,Aguilar Pro Scarf,363.07,114
+Clothing,Gibson Modern Cap,318.79,115
+Clothing,Smith Eco Blazer,314.89,116
+Clothing,Peterson Eco Sneakers,172.33,117
+Clothing,Hansen Premium Scarf,-9798.93,118
+Clothing,Lee Ultra Hoodie,-32314.26,119
+Electronics,Baxter Compact Laptop,52762.44,1
+Electronics,Robertson Pro Charger,47006.1,2
+Electronics,Fox Vintage Webcam,45776.15,3
+Electronics,Palmer Classic Router,43817.24,4
+Electronics,Lambert Smart Charger,39672.35,5
+Electronics,Ryan Eco Mouse,37212.4,6
+Electronics,Johnson Deluxe Charger,36096.39,7
+Electronics,Snyder Smart Camera,34665.25,8
+Electronics,Hill Smart Mouse,34434.94,9
+Electronics,Mills Smart Router,32325.08,10
+Electronics,Leon Classic Speaker,31701.6,11
+Electronics,Anderson Modern Speaker,30834.19,12
+Electronics,Vasquez Ultra Tablet,30782.38,13
+Electronics,Campbell Premium Router,29581.42,14
+Electronics,Perez Compact Keyboard,27912.72,15
+Electronics,Winters Premium Smartphone,27768.15,16
+Electronics,Sims Ultra Earbuds,27593.04,17
+Electronics,Knight Portable Speaker,26731.97,18
+Electronics,Goodwin Pro Power Bank,26274.6,19
+Electronics,Luna Pro Charger,25926.0,20
+Electronics,Meyer Vintage Smartwatch,25878.09,21
+Electronics,Haynes Essential Speaker,25725.21,22
+Electronics,Herrera Classic Charger,25509.91,23
+Electronics,Vincent Eco Smartwatch,24904.61,24
+Electronics,Macias Eco Mouse,24685.66,25
+Electronics,Cox Vintage Router,24610.94,26
+Electronics,Mosley Compact Monitor,24300.21,27
+Electronics,Smith Essential Speaker,24166.36,28
+Electronics,Hinton Pro Tablet,22633.03,29
+Electronics,Brock Deluxe Mouse,22452.16,30
+Electronics,Smith Classic Charger,22197.5,31
+Electronics,Kent Smart Mouse,21778.39,32
+Electronics,Kelley Essential Laptop,21563.34,33
+Electronics,Smith Portable Speaker,21549.97,34
+Electronics,Wilson Compact Smartwatch,21107.65,35
+Electronics,Johnson Eco Earbuds,20707.07,36
+Electronics,Francis Smart Camera,20513.22,37
+Electronics,Sanchez Deluxe Power Bank,20417.49,38
+Electronics,Reese Vintage Headphones,20264.44,39
+Electronics,Howard Ultra Speaker,20186.28,40
+Electronics,Rivera Eco Tablet,20051.22,41
+Electronics,Jennings Smart Camera,19938.56,42
+Electronics,Soto Deluxe Power Bank,19700.48,43
+Electronics,Miller Vintage Smartwatch,19558.38,44
+Electronics,Ruiz Vintage Tablet,19324.29,45
+Electronics,Harris Compact Tablet,19193.38,46
+Electronics,Hartman Compact Webcam,19160.57,47
+Electronics,King Deluxe Smartphone,18930.32,48
+Electronics,Baker Smart Keyboard,18605.33,49
+Electronics,Nielsen Premium Smartphone,18085.95,50
+Electronics,Houston Pro Charger,17718.98,51
+Electronics,Baker Deluxe Laptop,17617.15,52
+Electronics,Bernard Modern Router,17346.58,53
+Electronics,Hernandez Portable Headphones,17309.05,54
+Electronics,Lee Smart Tablet,16873.18,55
+Electronics,May Portable Keyboard,16706.65,56
+Electronics,Gutierrez Portable Earbuds,15495.02,57
+Electronics,Sanchez Essential Monitor,15413.28,58
+Electronics,Moore Portable Headphones,15199.57,59
+Electronics,Ochoa Premium Mouse,14735.38,60
+Electronics,Robinson Vintage Earbuds,14688.82,61
+Electronics,Mills Compact Monitor,14606.3,62
+Electronics,Smith Smart Laptop,14098.07,63
+Electronics,Schroeder Smart Earbuds,13693.93,64
+Electronics,Russell Vintage Router,13123.92,65
+Electronics,Conrad Classic Tablet,12726.72,66
+Electronics,Hunt Classic Monitor,12576.45,67
+Electronics,Anderson Classic Laptop,12343.38,68
+Electronics,Olson Classic Power Bank,12338.57,69
+Electronics,Sims Classic Headphones,11537.94,70
+Electronics,Vance Essential Headphones,11493.92,71
+Electronics,Blankenship Smart Router,11465.32,72
+Electronics,White Vintage Smartphone,11255.9,73
+Electronics,Rodriguez Vintage Smartwatch,11237.36,74
+Electronics,Berry Smart Router,11048.5,75
+Electronics,Hernandez Eco Camera,10676.24,76
+Electronics,Miller Compact Earbuds,10262.06,77
+Electronics,Hopkins Essential Camera,10041.93,78
+Electronics,Newman Premium Webcam,9384.9,79
+Electronics,Lewis Compact Monitor,9368.47,80
+Electronics,Hogan Premium Camera,9082.41,81
+Electronics,Price Essential Power Bank,8788.03,82
+Electronics,Mitchell Vintage Mouse,8742.59,83
+Electronics,Scott Classic Monitor,8588.07,84
+Electronics,Schmitt Pro Smartphone,7571.48,85
+Electronics,Manning Eco Charger,7382.57,86
+Electronics,Pena Portable Camera,7142.64,87
+Electronics,Guerrero Pro Headphones,7110.42,88
+Electronics,Wong Essential Tablet,7025.31,89
+Electronics,Williams Premium Mouse,6906.94,90
+Electronics,Leonard Ultra Monitor,6802.88,91
+Electronics,Reyes Essential Monitor,6573.95,92
+Electronics,Johnson Premium Webcam,6525.12,93
+Electronics,Flores Vintage Laptop,6383.19,94
+Electronics,Black Premium Monitor,5986.88,95
+Electronics,Gonzales Pro Earbuds,5972.28,96
+Electronics,Allen Pro Monitor,5814.01,97
+Electronics,Ballard Classic Router,5702.92,98
+Electronics,Robinson Portable Smartwatch,5570.76,99
+Electronics,Hansen Premium Monitor,5479.24,100
+Electronics,Olson Deluxe Laptop,5172.03,101
+Electronics,Jensen Modern Router,4983.06,102
+Electronics,Harris Deluxe Monitor,4869.45,103
+Electronics,Stuart Classic Charger,4722.8,104
+Electronics,King Smart Camera,4630.39,105
+Electronics,Meyer Eco Laptop,4072.19,106
+Electronics,Daniels Classic Keyboard,3941.63,107
+Electronics,Obrien Premium Speaker,3811.77,108
+Electronics,Aguirre Compact Power Bank,3673.03,109
+Electronics,Poole Pro Power Bank,3054.72,110
+Electronics,Young Modern Headphones,2842.71,111
+Electronics,Shannon Vintage Keyboard,2765.12,112
+Electronics,Rowe Modern Tablet,2477.51,113
+Electronics,Thomas Eco Smartwatch,1824.97,114
+Electronics,Steele Pro Webcam,1672.84,115
+Electronics,Sanford Pro Monitor,1261.79,116
+Electronics,Obrien Portable Webcam,905.64,117
+Electronics,Johns Eco Tablet,658.44,118
+Electronics,Whitehead Compact Camera,596.82,119
+Electronics,Haynes Classic Webcam,-7722.9,120
+Home,Thomas Eco Bookshelf,54800.16,1
+Home,Williams Pro Cookware Set,48349.12,2
+Home,Hudson Smart Organizer,42600.29,3
+Home,Davis Premium Wall Clock,39642.16,4
+Home,Scott Ultra Cookware Set,38387.5,5
+Home,Long Vintage Blender,38160.48,6
+Home,Olson Compact Blender,35879.2,7
+Home,Brown Modern Organizer,35859.6,8
+Home,Holden Compact Dinner Set,34777.52,9
+Home,Bennett Smart Bookshelf,33497.13,10
+Home,Edwards Essential Cushion,33433.59,11
+Home,Frazier Premium Bookshelf,32029.88,12
+Home,Robles Vintage Dinner Set,31647.99,13
+Home,Webb Deluxe Dinner Set,31020.68,14
+Home,King Pro Curtains,31020.41,15
+Home,James Classic Bedsheet,29761.08,16
+Home,Garcia Pro Cookware Set,28664.78,17
+Home,Jefferson Premium Organizer,27942.56,18
+Home,York Compact Cushion,26554.82,19
+Home,Calhoun Vintage Curtains,25674.2,20
+Home,Hess Portable Lamp,25503.72,21
+Home,Hall Ultra Blender,24733.35,22
+Home,Avery Smart Organizer,24605.73,23
+Home,Figueroa Portable Coffee Maker,24594.62,24
+Home,Lawrence Ultra Coffee Maker,24138.69,25
+Home,Vance Smart Bookshelf,23942.41,26
+Home,Atkins Eco Curtains,23620.5,27
+Home,Wilson Vintage Bedsheet,23523.79,28
+Home,Hanson Compact Vase,23189.92,29
+Home,Ross Modern Bookshelf,23059.81,30
+Home,Gray Smart Dinner Set,22866.46,31
+Home,Padilla Premium Bookshelf,22571.97,32
+Home,White Essential Vase,22382.62,33
+Home,Conley Smart Blender,21671.43,34
+Home,Knight Pro Lamp,21559.86,35
+Home,Fisher Portable Vase,21532.21,36
+Home,Sanchez Pro Bookshelf,21426.84,37
+Home,Smith Premium Wall Clock,20663.38,38
+Home,Rivera Ultra Organizer,20484.38,39
+Home,Cunningham Compact Bedsheet,20072.2,40
+Home,Welch Premium Dinner Set,19747.54,41
+Home,Lewis Eco Vase,19221.34,42
+Home,Tucker Pro Organizer,18697.53,43
+Home,Holland Essential Dinner Set,18685.89,44
+Home,Castillo Compact Cookware Set,18569.96,45
+Home,Kelly Classic Vase,18432.05,46
+Home,Evans Premium Organizer,18418.33,47
+Home,Patterson Compact Cookware Set,18209.49,48
+Home,Mitchell Essential Cookware Set,17914.43,49
+Home,Burke Eco Wall Clock,17886.45,50
+Home,Hughes Essential Curtains,17859.49,51
+Home,Thompson Essential Curtains,17521.33,52
+Home,Davis Deluxe Wall Clock,17444.62,53
+Home,Keith Premium Coffee Maker,17404.63,54
+Home,George Ultra Coffee Maker,16884.08,55
+Home,Valentine Smart Bookshelf,16571.73,56
+Home,Zimmerman Portable Wall Clock,16462.56,57
+Home,Goodwin Portable Organizer,16376.07,58
+Home,Thomas Ultra Bedsheet,16304.51,59
+Home,Brown Deluxe Coffee Maker,16111.97,60
+Home,Miller Vintage Dinner Set,15894.75,61
+Home,Graham Essential Wall Clock,15799.61,62
+Home,Jacobs Essential Curtains,15623.65,63
+Home,Powell Smart Lamp,15405.1,64
+Home,Figueroa Modern Coffee Maker,15195.26,65
+Home,Tucker Ultra Bedsheet,15097.97,66
+Home,Jones Compact Bedsheet,15079.25,67
+Home,Armstrong Deluxe Bookshelf,14847.37,68
+Home,Valenzuela Classic Bedsheet,14803.85,69
+Home,Smith Vintage Cushion,14749.37,70
+Home,Walker Modern Cookware Set,14414.28,71
+Home,Fields Premium Wall Clock,14381.68,72
+Home,Maxwell Deluxe Blender,14265.26,73
+Home,Huff Portable Cookware Set,14171.77,74
+Home,Nichols Modern Cookware Set,14161.82,75
+Home,Phillips Compact Coffee Maker,13481.66,76
+Home,Serrano Essential Organizer,13432.5,77
+Home,Morrow Vintage Vase,13053.11,78
+Home,Hill Portable Bedsheet,12625.59,79
+Home,Rivera Modern Bookshelf,12150.34,80
+Home,Hayes Ultra Lamp,12130.12,81
+Home,Shields Portable Vase,11897.65,82
+Home,Clements Ultra Dinner Set,11413.02,83
+Home,Thomas Ultra Blender,11190.71,84
+Home,Miller Modern Wall Clock,11085.2,85
+Home,Jenkins Modern Dinner Set,10992.11,86
+Home,Gordon Ultra Coffee Maker,10746.4,87
+Home,Carpenter Vintage Dinner Set,10663.44,88
+Home,Hoffman Deluxe Coffee Maker,10428.1,89
+Home,Eaton Classic Wall Clock,10149.9,90
+Home,Scott Modern Bedsheet,10105.53,91
+Home,Sanders Portable Dinner Set,10094.78,92
+Home,Richards Compact Cookware Set,10016.43,93
+Home,Tucker Modern Blender,9727.34,94
+Home,Villanueva Modern Cookware Set,9644.82,95
+Home,Dunn Pro Coffee Maker,9411.69,96
+Home,Banks Compact Wall Clock,9227.11,97
+Home,Camacho Vintage Cookware Set,9188.77,98
+Home,Harmon Deluxe Vase,9082.48,99
+Home,Cantrell Compact Organizer,8430.01,100
+Home,Caldwell Eco Wall Clock,7510.21,101
+Home,Davidson Compact Coffee Maker,7379.97,102
+Home,Smith Essential Organizer,7133.61,103
+Home,Williams Pro Wall Clock,6479.91,104
+Home,Sullivan Classic Curtains,6359.3,105
+Home,Guzman Smart Coffee Maker,5930.64,106
+Home,Morales Eco Organizer,5823.8,107
+Home,Bailey Portable Bedsheet,5786.11,108
+Home,Johnston Modern Cushion,5537.09,109
+Home,Benjamin Vintage Curtains,5400.11,110
+Home,Wood Deluxe Vase,5334.59,111
+Home,Moore Portable Blender,5118.89,112
+Home,Mendez Pro Bedsheet,4835.39,113
+Home,Dixon Premium Coffee Maker,4701.76,114
+Home,Pearson Ultra Bedsheet,4575.86,115
+Home,Holmes Pro Vase,4491.56,116
+Home,Young Eco Curtains,4474.34,117
+Home,Mendoza Ultra Coffee Maker,4099.83,118
+Home,Montgomery Pro Bedsheet,3920.03,119
+Home,Baker Ultra Cushion,3473.83,120
+Home,Ward Pro Bedsheet,2791.66,121
+Home,Robinson Eco Curtains,2754.02,122
+Home,Ramsey Vintage Cushion,2253.07,123
+Home,Griffin Portable Wall Clock,1603.25,124
+Home,Carlson Vintage Curtains,1564.05,125
+Home,Mason Classic Blender,1421.8,126
+Home,Gonzalez Premium Cushion,1143.85,127
+Home,Ramirez Modern Bedsheet,1027.93,128
+Home,Hood Vintage Wall Clock,875.44,129
+Home,Sanders Modern Coffee Maker,873.36,130
+Home,Underwood Modern Bookshelf,-65.94,131

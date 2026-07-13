@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_type,num_orders,total_order_value
+C0175,Haley Arnold,PREMIUM,7,39957.83
+C0432,Andrew Gonzales,REGULAR,5,39481.54
+C0366,Chloe Tran,REGULAR,4,37804.97
+C0230,Charles Martinez,VIP,6,34934.99
+C0025,Pamela Romero,VIP,5,34920.24
+C0160,Katherine Davis,REGULAR,6,34843.71
+C0591,Jason Cortez,PREMIUM,6,34696.93
+C0041,Nicholas Mcbride,PREMIUM,6,33984.31
+C0110,Daniel Murphy,VIP,5,33791.28
+C0516,Omar Ware,PREMIUM,6,33504.64

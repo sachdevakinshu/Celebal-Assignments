@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Ayala Smart Guidebook,Books,Comics,784.68
+P0002,Garrett Smart Sweater,Clothing,Sportswear,685.24
+P0003,Cameron Portable Guidebook,Books,Fiction,379.96
+P0004,Turner Pro Textbook,Books,Comics,771.97
+P0005,Tyler Compact Socks,Clothing,Sportswear,696.15
+P0006,Pierce Pro Journal,Books,Fiction,15.23
+P0007,Jones Eco Scarf,Clothing,Footwear,62.64
+P0008,Zimmerman Portable Wall Clock,Home,Decor,319.79
+P0009,Fox Vintage Webcam,Electronics,Audio,687.9
+P0010,Krueger Essential Encyclopedia,Books,Academic,31.61
+P0011,Meyer Vintage Smartwatch,Electronics,Laptops,736.98
+P0012,Hartman Premium Sweater,Clothing,Men,609.01
+P0013,Moore Portable Headphones,Electronics,Accessories,241.67
+P0014,Daniels Classic Keyboard,Electronics,Mobiles,236.81
+P0015,Powell Smart Lamp,Home,Bedding,426.34
+P0016,Bailey Premium Jacket,Clothing,Women,488.76
+P0017,Ware Pro Comic Book,Books,Self-Help,730.52
+P0018,Alvarado Vintage Shorts,Clothing,Women,205.42
+P0019,Rivera Ultra Organizer,Home,Kitchen,543.06
+P0020,Carter Compact Shorts,Clothing,Men,790.16
+P0021,Clements Ultra Dinner Set,Home,Bedding,367.1
+P0022,Montgomery Pro Bedsheet,Home,Furniture,88.0
+P0023,Wells Modern Guidebook,Books,Self-Help,238.81
+P0024,Hoffman Deluxe Coffee Maker,Home,Kitchen,221.76
+P0025,Goodwin Pro Power Bank,Electronics,Cameras,666.77
+P0026,Banks Compact Wall Clock,Home,Furniture,177.55
+P0027,Wilson Vintage Hoodie,Clothing,Sportswear,605.2
+P0028,Reed Vintage Scarf,Clothing,Men,34.42
+P0029,Allen Compact Atlas,Books,Fiction,586.69
+P0030,May Portable Keyboard,Electronics,Audio,334.16
+P0031,Sellers Compact Cap,Clothing,Women,426.09
+P0032,Sanchez Pro Bookshelf,Home,Furniture,774.01
+P0033,Williams Pro Cookware Set,Home,Decor,770.43
+P0034,Blackwell Portable Scarf,Clothing,Women,540.5
+P0035,James Premium Guidebook,Books,Self-Help,633.17
+P0036,Hogan Premium Camera,Electronics,Audio,365.46
+P0037,Wilson Vintage Bedsheet,Home,Storage,752.41
+P0038,Scott Classic Monitor,Electronics,Laptops,496.78
+P0039,Ramsey Vintage Cushion,Home,Storage,53.38
+P0040,Johnson Premium Anthology,Books,Academic,114.4
+P0041,Black Premium Monitor,Electronics,Audio,80.46
+P0042,Townsend Compact Shorts,Clothing,Footwear,537.38
+P0043,Robertson Deluxe Textbook,Books,Self-Help,524.97
+P0044,Hicks Ultra Anthology,Books,Self-Help,29.07
+P0045,Tucker Pro Organizer,Home,Furniture,760.59
+P0046,Phillips Compact Coffee Maker,Home,Kitchen,436.94
+P0047,Pearson Ultra Bedsheet,Home,Kitchen,154.28
+P0048,Flores Vintage Laptop,Electronics,Accessories,172.05
+P0049,Miller Compact Earbuds,Electronics,Mobiles,197.12
+P0050,Davis Premium Sneakers,Clothing,Sportswear,664.36
+P0051,Bonilla Smart Sneakers,Clothing,Sportswear,264.86
+P0052,Ayala Ultra T-Shirt,Clothing,Sportswear,687.15
+P0053,Ferguson Ultra Cap,Clothing,Women,639.42
+P0054,Sims Classic Headphones,Electronics,Mobiles,288.52
+P0055,Clark Classic Dress,Clothing,Sportswear,141.87
+P0056,Soto Deluxe Power Bank,Electronics,Laptops,422.29
+P0057,Lewis Compact Monitor,Electronics,Accessories,412.05
+P0058,Jennings Smart Camera,Electronics,Accessories,756.5
+P0059,Houston Pro Charger,Electronics,Cameras,515.74
+P0060,Harris Deluxe Monitor,Electronics,Mobiles,342.74
+P0061,Poole Pro Power Bank,Electronics,Accessories,61.57
+P0062,Johns Eco Tablet,Electronics,Audio,55.35
+P0063,Figueroa Modern Coffee Maker,Home,Storage,440.04
+P0064,Graham Essential Wall Clock,Home,Bedding,238.03
+P0065,Montoya Vintage Biography,Books,Fiction,521.78
+P0066,Jones Smart Shorts,Clothing,Footwear,332.81
+P0067,Parks Portable Anthology,Books,Comics,78.78
+P0068,Johnson Compact Cookbook,Books,Academic,763.01
+P0069,Love Premium Biography,Books,Fiction,77.3
+P0070,Johnson Eco Earbuds,Electronics,Audio,446.43
+P0071,Jones Compact Bedsheet,Home,Kitchen,699.27
+P0072,Thompson Modern Cookbook,Books,Fiction,252.02
+P0073,King Smart Camera,Electronics,Cameras,126.32
+P0074,Jones Compact Biography,Books,Non-Fiction,676.76
+P0075,Underwood Modern Bookshelf,Home,Kitchen,183.25
+P0076,Bartlett Modern Atlas,Books,Self-Help,540.96
+P0077,Russell Vintage Router,Electronics,Cameras,664.08
+P0078,Hayes Ultra Lamp,Home,Kitchen,563.05
+P0079,Sullivan Classic Curtains,Home,Decor,147.58
+P0080,Stewart Deluxe Scarf,Clothing,Sportswear,58.46
+P0081,Price Essential Power Bank,Electronics,Mobiles,174.46
+P0082,Wilson Eco Guidebook,Books,Comics,297.93
+P0083,Smith Premium Wall Clock,Home,Storage,707.02
+P0084,Cortez Classic Socks,Clothing,Women,540.15
+P0085,Brown Deluxe Coffee Maker,Home,Bedding,390.07
+P0086,Reese Smart Cookbook,Books,Comics,604.69
+P0087,Williams Premium Mouse,Electronics,Audio,228.75
+P0088,Charles Classic Cookbook,Books,Self-Help,178.75
+P0089,Howard Ultra Speaker,Electronics,Mobiles,756.42
+P0090,Shaw Compact Hoodie,Clothing,Kids,98.63
+P0091,Roberts Eco Textbook,Books,Comics,306.03
+P0092,Jennings Vintage Cap,Clothing,Sportswear,645.54
+P0093,Obrien Portable Webcam,Electronics,Accessories,36.71
+P0094,Campbell Premium Router,Electronics,Accessories,690.1
+P0095,Mcintosh Portable Anthology,Books,Self-Help,513.19
+P0096,James Classic Bedsheet,Home,Kitchen,773.06
+P0097,Short Portable Shorts,Clothing,Sportswear,736.06
+P0098,Johnson Premium Webcam,Electronics,Accessories,196.92
+P0099,Moore Deluxe Biography,Books,Self-Help,696.81
+P0100,Robinson Eco Curtains,Home,Furniture,63.87
+P0101,Francis Smart Camera,Electronics,Cameras,725.02
+P0102,Robles Vintage Dinner Set,Home,Decor,652.58
+P0103,Atkinson Ultra Jacket,Clothing,Men,160.23
+P0104,Phillips Vintage Jacket,Clothing,Men,396.81
+P0105,Walters Compact Atlas,Books,Self-Help,691.8
+P0106,Evans Premium Organizer,Home,Furniture,376.73
+P0107,Eaton Classic Wall Clock,Home,Decor,283.5
+P0108,Sanford Pro Monitor,Electronics,Audio,32.97
+P0109,Camacho Vintage Cookware Set,Home,Decor,691.81
+P0110,Wong Essential Tablet,Electronics,Cameras,309.43
+P0111,Bernard Modern Router,Electronics,Accessories,522.51
+P0112,Smith Essential Organizer,Home,Storage,123.24
+P0113,Baxter Compact Laptop,Electronics,Accessories,785.96
+P0114,Thomas Eco Smartwatch,Electronics,Cameras,34.2
+P0115,Williams Essential Journal,Books,Comics,489.01
+P0116,Armstrong Deluxe Bookshelf,Home,Decor,328.79
+P0117,Long Vintage Blender,Home,Storage,518.9
+P0118,Kelley Essential Laptop,Electronics,Audio,543.67
+P0119,Miller Vintage Dinner Set,Home,Decor,771.63
+P0120,Clark Modern Jeans,Clothing,Kids,531.9
+P0121,Figueroa Portable Coffee Maker,Home,Decor,530.72
+P0122,Swanson Premium Blazer,Clothing,Sportswear,249.74
+P0123,Lewis Vintage Textbook,Books,Academic,563.16
+P0124,Whitehead Compact Camera,Electronics,Accessories,17.53
+P0125,York Compact Cushion,Home,Furniture,758.29
+P0126,Thomas Eco Comic Book,Books,Non-Fiction,126.49
+P0127,White Essential Vase,Home,Kitchen,668.59
+P0128,Jensen Modern Router,Electronics,Audio,107.45
+P0129,King Eco Textbook,Books,Non-Fiction,665.58
+P0130,Wilson Deluxe T-Shirt,Clothing,Footwear,293.35
+P0131,Lambert Ultra Socks,Clothing,Footwear,602.66
+P0132,Bradley Smart Journal,Books,Non-Fiction,249.65
+P0133,Brown Vintage Guidebook,Books,Non-Fiction,757.86
+P0134,Potter Deluxe Cookbook,Books,Comics,403.82
+P0135,Branch Modern Comic Book,Books,Non-Fiction,113.3
+P0136,Dunn Pro Coffee Maker,Home,Kitchen,699.67
+P0137,Newman Premium Webcam,Electronics,Cameras,230.2
+P0138,Jones Essential Shorts,Clothing,Kids,120.44
+P0139,Powers Pro Comic Book,Books,Fiction,708.05
+P0140,King Deluxe Smartphone,Electronics,Accessories,403.1
+P0141,Gonzalez Compact Jeans,Clothing,Footwear,181.96
+P0142,Carpenter Vintage Dinner Set,Home,Kitchen,270.23
+P0143,Lynn Ultra T-Shirt,Clothing,Women,734.16
+P0144,Howard Pro Encyclopedia,Books,Non-Fiction,493.43
+P0145,Lambert Smart Charger,Electronics,Mobiles,668.47
+P0146,Young Smart Cookbook,Books,Fiction,243.02
+P0147,Mitchell Vintage Mouse,Electronics,Laptops,635.74
+P0148,Jones Pro Biography,Books,Fiction,478.6
+P0149,Lee Smart Tablet,Electronics,Cameras,575.68
+P0150,Tucker Modern Blender,Home,Bedding,284.19
+P0151,Murphy Essential Biography,Books,Non-Fiction,779.8
+P0152,Hopkins Essential Camera,Electronics,Cameras,629.77
+P0153,Steele Pro Webcam,Electronics,Accessories,37.7
+P0154,Hernandez Portable Cookbook,Books,Academic,15.95
+P0155,Knight Portable Speaker,Electronics,Audio,526.71
+P0156,Aguirre Compact Power Bank,Electronics,Cameras,109.33
+P0157,Benjamin Vintage Curtains,Home,Storage,142.55
+P0158,Jackson Eco Textbook,Books,Comics,53.29
+P0159,Edwards Smart Cookbook,Books,Fiction,37.91
+P0160,Floyd Ultra Dress,Clothing,Men,413.76
+P0161,Joseph Vintage Novel,Books,Academic,155.31
+P0162,Davidson Compact Coffee Maker,Home,Kitchen,220.75
+P0163,Hill Portable Bedsheet,Home,Bedding,353.47
+P0164,Ward Pro Textbook,Books,Academic,554.58
+P0165,Frazier Premium Bookshelf,Home,Storage,582.48
+P0166,Rivera Eco Tablet,Electronics,Accessories,437.74
+P0167,Castillo Compact Cookware Set,Home,Kitchen,529.75
+P0168,Griffin Portable Wall Clock,Home,Bedding,342.61
+P0169,Hampton Classic Encyclopedia,Books,Academic,582.27
+P0170,Tucker Ultra Bedsheet,Home,Storage,512.66
+P0171,Rodriguez Vintage Smartwatch,Electronics,Mobiles,326.75
+P0172,Brewer Modern Jacket,Clothing,Men,543.44
+P0173,Miller Premium Textbook,Books,Fiction,191.09
+P0174,Ramirez Modern Bedsheet,Home,Decor,28.81
+P0175,Serrano Compact Dress,Clothing,Footwear,356.82
+P0176,Vance Essential Headphones,Electronics,Cameras,295.46
+P0177,Gonzalez Premium Cushion,Home,Decor,23.65
+P0178,Gross Deluxe Cap,Clothing,Footwear,731.09
+P0179,Sims Ultra Earbuds,Electronics,Audio,564.12
+P0180,Luna Portable Hoodie,Clothing,Sportswear,733.43
+P0181,Mcclain Eco Biography,Books,Non-Fiction,682.7
+P0182,Atkinson Premium Encyclopedia,Books,Non-Fiction,648.98
+P0183,Welch Premium Dinner Set,Home,Decor,441.35
+P0184,Hess Portable Lamp,Home,Decor,568.52
+P0185,Riley Smart Cap,Clothing,Kids,99.73
+P0186,Hammond Pro Sneakers,Clothing,Women,23.95
+P0187,Lewis Eco Vase,Home,Bedding,490.72
+P0188,Johnson Deluxe Charger,Electronics,Mobiles,799.68
+P0189,Green Deluxe Anthology,Books,Self-Help,659.2
+P0190,Shannon Vintage Keyboard,Electronics,Laptops,62.11
+P0191,Fernandez Eco Guidebook,Books,Self-Help,702.73
+P0192,Valdez Essential Sweater,Clothing,Women,728.84
+P0193,Hernandez Eco Camera,Electronics,Mobiles,245.39
+P0194,Long Smart Blazer,Clothing,Kids,278.78
+P0195,Vance Smart Bookshelf,Home,Kitchen,509.14
+P0196,Lawrence Ultra Coffee Maker,Home,Furniture,492.7
+P0197,Vincent Eco Smartwatch,Electronics,Cameras,474.67
+P0198,Anderson Modern Scarf,Clothing,Women,577.34
+P0199,Mason Classic Blender,Home,Storage,67.73
+P0200,Davis Deluxe Wall Clock,Home,Furniture,495.63
+P0201,Cox Vintage Router,Electronics,Accessories,437.83
+P0202,Smith Vintage Cushion,Home,Bedding,326.66
+P0203,Allen Eco Novel,Books,Fiction,353.37
+P0204,Maynard Compact Comic Book,Books,Comics,486.51
+P0205,Holden Compact Dinner Set,Home,Decor,780.37
+P0206,Sutton Essential Cap,Clothing,Kids,87.63
+P0207,Todd Ultra Jeans,Clothing,Footwear,361.33
+P0208,Taylor Ultra T-Shirt,Clothing,Men,756.47
+P0209,Moore Compact Textbook,Books,Non-Fiction,747.2
+P0210,Knight Pro Lamp,Home,Furniture,796.79
+P0211,Knight Pro Cookbook,Books,Comics,21.47
+P0212,Brennan Smart Encyclopedia,Books,Self-Help,174.47
+P0213,Thomas Ultra Blender,Home,Kitchen,397.43
+P0214,Dennis Classic Journal,Books,Academic,678.2
+P0215,Crosby Portable Cookbook,Books,Non-Fiction,294.52
+P0216,Williams Deluxe Novel,Books,Academic,43.77
+P0217,Juarez Ultra Cap,Clothing,Kids,61.6
+P0218,Hall Modern Cookbook,Books,Self-Help,545.28
+P0219,Baker Deluxe Laptop,Electronics,Laptops,300.44
+P0220,Young Eco Curtains,Home,Storage,161.65
+P0221,Barnett Classic Novel,Books,Self-Help,34.01
+P0222,Holmes Pro Vase,Home,Bedding,121.71
+P0223,Moody Compact Socks,Clothing,Kids,132.51
+P0224,Hughes Essential Curtains,Home,Storage,663.15
+P0225,Hardin Pro Cookbook,Books,Self-Help,653.15
+P0226,Keith Premium Coffee Maker,Home,Decor,783.98
+P0227,Williams Pro Wall Clock,Home,Kitchen,214.63
+P0228,Wong Pro Socks,Clothing,Men,138.9
+P0229,Garcia Classic Comic Book,Books,Non-Fiction,459.34
+P0230,Schmitt Pro Smartphone,Electronics,Laptops,253.01
+P0231,Schultz Smart Blazer,Clothing,Footwear,330.07
+P0232,Hill Essential Textbook,Books,Fiction,168.25
+P0233,Harmon Deluxe Vase,Home,Bedding,253.06
+P0234,Lane Compact Cap,Clothing,Footwear,438.38
+P0235,Hudson Smart Organizer,Home,Storage,766.0
+P0236,Bennett Smart Bookshelf,Home,Storage,753.36
+P0237,Gray Smart Dinner Set,Home,Decor,553.12
+P0238,Matthews Compact Encyclopedia,Books,Academic,449.71
+P0239,Villanueva Modern Cookware Set,Home,Decor,542.27
+P0240,Miller Eco Guidebook,Books,Comics,234.49
+P0241,King Pro Curtains,Home,Kitchen,525.81
+P0242,Kaufman Essential Comic Book,Books,Non-Fiction,219.09
+P0243,Walker Modern Cookware Set,Home,Furniture,593.49
+P0244,Sullivan Vintage T-Shirt,Clothing,Women,724.43
+P0245,Roth Premium T-Shirt,Clothing,Women,332.4
+P0246,Reed Classic Textbook,Books,Fiction,771.72
+P0247,Sparks Pro Scarf,Clothing,Footwear,383.53
+P0248,Eaton Ultra Dress,Clothing,Kids,517.78
+P0249,Smith Essential Speaker,Electronics,Cameras,591.73
+P0250,Macias Eco Mouse,Electronics,Laptops,747.34
+P0251,Gonzales Pro Earbuds,Electronics,Accessories,151.49
+P0252,Hall Ultra Blender,Home,Kitchen,455.67
+P0253,Robertson Pro Charger,Electronics,Audio,791.31
+P0254,Campbell Pro Journal,Books,Non-Fiction,220.45
+P0255,Hernandez Portable Headphones,Electronics,Audio,368.75
+P0256,Moore Portable Blender,Home,Furniture,271.68
+P0257,Guzman Smart Coffee Maker,Home,Storage,142.87
+P0258,Montoya Compact Journal,Books,Comics,72.13
+P0259,Guerrero Pro Headphones,Electronics,Laptops,260.91
+P0260,Perry Deluxe Hoodie,Clothing,Men,190.71
+P0261,Rivera Modern Bookshelf,Home,Decor,579.14
+P0262,Wilson Compact Smartwatch,Electronics,Audio,555.14
+P0263,Leonard Ultra Monitor,Electronics,Mobiles,130.29
+P0264,Mendoza Ultra Coffee Maker,Home,Kitchen,295.93
+P0265,Garza Pro Jacket,Clothing,Women,125.09
+P0266,Holland Essential Dinner Set,Home,Bedding,730.5
+P0267,Jenkins Modern Scarf,Clothing,Women,698.89
+P0268,Sanchez Essential Monitor,Electronics,Cameras,563.9
+P0269,Anderson Classic Laptop,Electronics,Cameras,663.53
+P0270,Vargas Eco Cap,Clothing,Sportswear,134.14
+P0271,Taylor Portable Comic Book,Books,Fiction,467.77
+P0272,Hunt Classic Monitor,Electronics,Cameras,364.39
+P0273,Macdonald Classic Atlas,Books,Comics,448.36
+P0274,Thomas Ultra Bedsheet,Home,Kitchen,653.71
+P0275,Jackson Classic Jeans,Clothing,Sportswear,340.69
+P0276,Nielsen Premium Smartphone,Electronics,Cameras,788.95
+P0277,Black Deluxe Cookbook,Books,Fiction,146.45
+P0278,Sullivan Deluxe Dress,Clothing,Footwear,360.48
+P0279,Costa Vintage Biography,Books,Comics,771.42
+P0280,Walsh Eco Jeans,Clothing,Kids,794.3
+P0281,Johns Portable Textbook,Books,Self-Help,783.04
+P0282,Luna Pro Charger,Electronics,Mobiles,539.78
+P0283,Nicholson Smart Anthology,Books,Self-Help,200.27
+P0284,Valentine Smart Bookshelf,Home,Furniture,750.12
+P0285,Robinson Vintage Earbuds,Electronics,Mobiles,337.13
+P0286,Obrien Premium Speaker,Electronics,Laptops,83.41
+P0287,Ruiz Vintage Tablet,Electronics,Accessories,563.52
+P0288,Olson Classic Power Bank,Electronics,Laptops,323.61
+P0289,Robinson Classic Sneakers,Clothing,Sportswear,114.69
+P0290,Jenkins Modern Dinner Set,Home,Furniture,257.17
+P0291,Thomas Eco Bookshelf,Home,Furniture,788.6
+P0292,Aguilar Ultra Hoodie,Clothing,Footwear,51.58
+P0293,Saunders Pro Cap,Clothing,Footwear,40.37
+P0294,Hanson Compact Vase,Home,Bedding,557.96
+P0295,Dixon Deluxe Cookbook,Books,Non-Fiction,149.55
+P0296,Jackson Ultra Comic Book,Books,Non-Fiction,686.46
+P0297,Jennings Essential T-Shirt,Clothing,Footwear,331.9
+P0298,Nielsen Eco Journal,Books,Self-Help,312.57
+P0299,Carlson Vintage Curtains,Home,Furniture,66.02
+P0300,Jones Essential Biography,Books,Academic,580.49
+P0301,Gray Deluxe Hoodie,Clothing,Men,539.92
+P0302,Anderson Modern Speaker,Electronics,Mobiles,580.27
+P0303,Smith Compact Sneakers,Clothing,Footwear,244.64
+P0304,Mills Smart Router,Electronics,Laptops,769.78
+P0305,Blankenship Smart Router,Electronics,Accessories,557.41
+P0306,Cohen Essential Sneakers,Clothing,Footwear,259.33
+P0307,Serrano Essential Organizer,Home,Bedding,520.03
+P0308,Jacobs Essential Curtains,Home,Decor,706.6
+P0309,Thompson Compact Encyclopedia,Books,Fiction,731.72
+P0310,Valenzuela Classic Bedsheet,Home,Decor,451.33
+P0311,Greene Ultra T-Shirt,Clothing,Women,443.99
+P0312,Rich Smart Textbook,Books,Academic,265.9
+P0313,Schmidt Pro Comic Book,Books,Self-Help,441.86
+P0314,Goodwin Portable Organizer,Home,Decor,514.43
+P0315,Davis Portable Textbook,Books,Comics,636.6
+P0316,Hopkins Essential Blazer,Clothing,Women,392.19
+P0317,Winters Premium Smartphone,Electronics,Cameras,756.31
+P0318,Ryan Eco Mouse,Electronics,Mobiles,674.51
+P0319,Smith Eco Blazer,Clothing,Men,10.29
+P0320,Pace Modern Novel,Books,Academic,511.27
+P0321,Gregory Classic Novel,Books,Comics,427.17
+P0322,Reynolds Essential Novel,Books,Fiction,578.59
+P0323,Fisher Portable Vase,Home,Kitchen,540.2
+P0324,Golden Essential Jeans,Clothing,Men,121.67
+P0325,Wolfe Ultra Cap,Clothing,Sportswear,652.73
+P0326,Patterson Compact Cookware Set,Home,Bedding,767.56
+P0327,Mays Portable Comic Book,Books,Self-Help,183.01
+P0328,Olson Deluxe Laptop,Electronics,Mobiles,305.27
+P0329,Mack Portable Novel,Books,Fiction,139.59
+P0330,Bell Modern Guidebook,Books,Comics,781.93
+P0331,Ballard Classic Router,Electronics,Cameras,186.12
+P0332,Velez Premium Novel,Books,Academic,548.49
+P0333,Hood Vintage Wall Clock,Home,Storage,29.22
+P0334,Johnston Modern Cushion,Home,Kitchen,117.92
+P0335,Coleman Eco Cookbook,Books,Fiction,452.47
+P0336,Scott Deluxe Guidebook,Books,Self-Help,605.22
+P0337,Cannon Portable Cap,Clothing,Men,779.54
+P0338,Kent Smart Mouse,Electronics,Mobiles,671.42
+P0339,Miller Modern Wall Clock,Home,Storage,319.17
+P0340,George Ultra Coffee Maker,Home,Kitchen,627.49
+P0341,Stephens Compact Comic Book,Books,Comics,443.77
+P0342,Scott Vintage Textbook,Books,Comics,469.94
+P0343,Smith Ultra Atlas,Books,Fiction,639.05
+P0344,Manning Eco Charger,Electronics,Mobiles,305.86
+P0345,Smith Compact Dress,Clothing,Footwear,87.92
+P0346,Mills Compact Monitor,Electronics,Audio,609.79
+P0347,Meyer Eco Laptop,Electronics,Laptops,346.49
+P0348,Brooks Premium Novel,Books,Fiction,285.07
+P0349,Harris Compact Tablet,Electronics,Cameras,691.38
+P0350,Brock Deluxe Mouse,Electronics,Audio,624.0
+P0351,Ortiz Eco Cap,Clothing,Sportswear,549.2
+P0352,Rodriguez Ultra Hoodie,Clothing,Women,216.92
+P0353,Simmons Deluxe Jacket,Clothing,Men,222.94
+P0354,Richards Compact Cookware Set,Home,Bedding,203.6
+P0355,Green Modern Socks,Clothing,Footwear,158.85
+P0356,Herrera Classic Charger,Electronics,Laptops,759.21
+P0357,Cunningham Compact Bedsheet,Home,Storage,353.86
+P0358,Carr Ultra Textbook,Books,Self-Help,258.57
+P0359,Braun Eco Dress,Clothing,Footwear,771.77
+P0360,Sanders Portable Dinner Set,Home,Decor,507.42
+P0361,Harris Ultra Sweater,Clothing,Kids,653.75
+P0362,Arnold Modern Biography,Books,Academic,162.24
+P0363,Grant Portable T-Shirt,Clothing,Sportswear,370.91
+P0364,White Portable Hoodie,Clothing,Footwear,58.12
+P0365,Hansen Vintage Textbook,Books,Comics,244.36
+P0366,Webb Deluxe Dinner Set,Home,Furniture,631.89
+P0367,Hinton Pro Tablet,Electronics,Accessories,467.05
+P0368,Lane Compact Novel,Books,Self-Help,562.2
+P0369,Schroeder Smart Earbuds,Electronics,Mobiles,527.11
+P0370,Sanders Modern Coffee Maker,Home,Furniture,38.3
+P0371,Taylor Premium Anthology,Books,Academic,11.41
+P0372,Shields Portable Vase,Home,Furniture,416.48
+P0373,Wilson Deluxe Dress,Clothing,Footwear,372.06
+P0374,Hall Pro T-Shirt,Clothing,Kids,86.33
+P0375,Logan Portable Biography,Books,Fiction,115.92
+P0376,Avery Smart Organizer,Home,Decor,418.33
+P0377,Garcia Pro Cookware Set,Home,Bedding,578.43
+P0378,Romero Ultra Biography,Books,Academic,38.61
+P0379,Hartman Compact Webcam,Electronics,Mobiles,519.43
+P0380,Owen Eco Cap,Clothing,Women,442.87
+P0381,Mendez Pro Bedsheet,Home,Storage,187.79
+P0382,Cohen Vintage Textbook,Books,Non-Fiction,526.87
+P0383,Williams Smart Atlas,Books,Fiction,361.31
+P0384,Price Portable Novel,Books,Comics,174.19
+P0385,Fields Premium Wall Clock,Home,Kitchen,640.2
+P0386,Brock Smart Dress,Clothing,Kids,367.67
+P0387,Morrow Vintage Vase,Home,Bedding,252.78
+P0388,Ruiz Modern Anthology,Books,Self-Help,94.04
+P0389,Burke Eco Wall Clock,Home,Bedding,651.55
+P0390,Davis Premium Wall Clock,Home,Storage,538.67
+P0391,Baker Ultra Cushion,Home,Kitchen,96.21
+P0392,Wood Deluxe Vase,Home,Furniture,336.34
+P0393,Lynch Deluxe Sweater,Clothing,Sportswear,151.05
+P0394,Ramsey Pro Jacket,Clothing,Sportswear,233.2
+P0395,Arias Modern Shorts,Clothing,Kids,45.73
+P0396,Morales Eco Organizer,Home,Kitchen,158.52
+P0397,Douglas Vintage Journal,Books,Self-Help,397.49
+P0398,Mitchell Pro Encyclopedia,Books,Comics,136.3
+P0399,Stuart Classic Charger,Electronics,Laptops,222.06
+P0400,Brown Modern Organizer,Home,Furniture,594.79
+P0401,Ayala Premium Journal,Books,Self-Help,459.45
+P0402,Thompson Essential Curtains,Home,Storage,658.62
+P0403,Snyder Smart Camera,Electronics,Accessories,791.85
+P0404,Smith Classic Charger,Electronics,Laptops,361.44
+P0405,Jefferson Premium Organizer,Home,Kitchen,621.18
+P0406,Galvan Modern Blazer,Clothing,Women,552.24
+P0407,Holmes Eco Atlas,Books,Non-Fiction,628.52
+P0408,Lee Compact Socks,Clothing,Men,427.23
+P0409,Bowers Ultra Blazer,Clothing,Kids,233.6
+P0410,Dixon Premium Coffee Maker,Home,Storage,111.06
+P0411,Hale Vintage Cookbook,Books,Fiction,104.13
+P0412,Gilbert Portable Jacket,Clothing,Women,259.71
+P0413,Craig Eco Shorts,Clothing,Footwear,463.21
+P0414,Ward Pro Bedsheet,Home,Bedding,63.19
+P0415,Pena Portable Camera,Electronics,Accessories,224.75
+P0416,Cantrell Compact Organizer,Home,Bedding,466.82
+P0417,Miller Vintage Smartwatch,Electronics,Accessories,558.74
+P0418,Hill Smart Mouse,Electronics,Cameras,774.6
+P0419,Ross Compact Hoodie,Clothing,Footwear,663.19
+P0420,Caldwell Eco Wall Clock,Home,Storage,454.22
+P0421,Sullivan Classic Novel,Books,Academic,82.36
+P0422,Gonzalez Eco Biography,Books,Fiction,354.7
+P0423,Smith Portable Speaker,Electronics,Accessories,727.8
+P0424,Padilla Premium Bookshelf,Home,Furniture,524.71
+P0425,Calhoun Vintage Curtains,Home,Kitchen,723.33
+P0426,Dunn Vintage Sweater,Clothing,Men,246.49
+P0427,Barber Premium Scarf,Clothing,Footwear,563.85
+P0428,Hansen Premium Monitor,Electronics,Laptops,108.76
+P0429,Aguilar Pro Scarf,Clothing,Sportswear,10.4
+P0430,Bailey Portable Bedsheet,Home,Kitchen,108.34
+P0431,Ochoa Premium Mouse,Electronics,Laptops,585.42
+P0432,Perez Compact Keyboard,Electronics,Mobiles,705.15
+P0433,Mccarty Vintage Jacket,Clothing,Footwear,794.37
+P0434,Gibson Modern Cap,Clothing,Men,9.75
+P0435,Powell Portable Dress,Clothing,Footwear,172.81
+P0436,Smith Vintage Socks,Clothing,Footwear,355.58
+P0437,Thompson Eco Jeans,Clothing,Men,602.7
+P0438,Hunter Compact Anthology,Books,Academic,633.49
+P0439,Hansen Premium Scarf,Clothing,Kids,200.79
+P0440,Gordon Ultra Coffee Maker,Home,Kitchen,166.74
+P0441,Morgan Vintage Hoodie,Clothing,Footwear,46.49
+P0442,Wilson Premium Sweater,Clothing,Footwear,195.14
+P0443,Palmer Classic Router,Electronics,Cameras,789.55
+P0444,Scott Modern Bedsheet,Home,Furniture,338.43
+P0445,Medina Classic Jeans,Clothing,Footwear,471.13
+P0446,Leon Classic Speaker,Electronics,Audio,738.3
+P0447,Wright Vintage Cookbook,Books,Self-Help,570.97
+P0448,Ramos Premium Anthology,Books,Comics,513.51
+P0449,Bennett Ultra Jeans,Clothing,Kids,65.98
+P0450,Webb Compact Cap,Clothing,Women,314.41
+P0451,Sanchez Deluxe Power Bank,Electronics,Audio,584.78
+P0452,Morgan Premium Sneakers,Clothing,Men,739.93
+P0453,Rowe Modern Tablet,Electronics,Accessories,46.86
+P0454,Maldonado Portable T-Shirt,Clothing,Men,112.36
+P0455,Mosley Compact Monitor,Electronics,Laptops,419.84
+P0456,Atkins Eco Curtains,Home,Furniture,600.57
+P0457,Olson Compact Blender,Home,Kitchen,646.26
+P0458,Scott Ultra Cookware Set,Home,Storage,570.72
+P0459,Reyes Essential Monitor,Electronics,Accessories,290.02
+P0460,Kramer Compact Textbook,Books,Self-Help,128.38
+P0461,Robinson Portable Smartwatch,Electronics,Cameras,94.92
+P0462,Haynes Classic Webcam,Electronics,Mobiles,197.91
+P0463,Mcbride Eco Anthology,Books,Academic,145.63
+P0464,Gutierrez Portable Earbuds,Electronics,Cameras,593.31
+P0465,Gomez Smart Guidebook,Books,Non-Fiction,334.76
+P0466,Nichols Modern Cookware Set,Home,Decor,300.13
+P0467,Haynes Essential Speaker,Electronics,Laptops,785.19
+P0468,Baker Ultra Encyclopedia,Books,Fiction,619.5
+P0469,Mitchell Essential Cookware Set,Home,Decor,367.03
+P0470,Ross Modern Bookshelf,Home,Furniture,628.25
+P0471,Goodman Modern Dress,Clothing,Footwear,777.57
+P0472,Peterson Eco Sneakers,Clothing,Sportswear,8.08
+P0473,Spencer Essential Comic Book,Books,Fiction,279.1
+P0474,White Vintage Smartphone,Electronics,Audio,302.89
+P0475,Edwards Essential Cushion,Home,Kitchen,786.54
+P0476,Robinson Eco Novel,Books,Comics,570.19
+P0477,Berry Smart Router,Electronics,Mobiles,718.14
+P0478,White Portable Encyclopedia,Books,Academic,70.67
+P0479,Reese Vintage Headphones,Electronics,Cameras,656.51
+P0480,Conrad Classic Tablet,Electronics,Cameras,349.68
+P0481,Lee Ultra Hoodie,Clothing,Women,681.18
+P0482,Mclaughlin Pro Guidebook,Books,Academic,219.75
+P0483,Young Modern Headphones,Electronics,Laptops,89.85
+P0484,Allen Pro Monitor,Electronics,Laptops,253.28
+P0485,Baker Smart Keyboard,Electronics,Cameras,363.18
+P0486,Perez Premium Biography,Books,Academic,128.62
+P0487,Conley Smart Blender,Home,Storage,669.23
+P0488,Huff Portable Cookware Set,Home,Furniture,200.83
+P0489,Kelly Classic Vase,Home,Bedding,542.72
+P0490,Maxwell Deluxe Blender,Home,Furniture,684.12
+P0491,Wilson Premium Shorts,Clothing,Men,643.71
+P0492,Miller Classic T-Shirt,Clothing,Men,664.81
+P0493,Sosa Deluxe Sneakers,Clothing,Women,299.68
+P0494,Vasquez Ultra Tablet,Electronics,Cameras,734.19
+P0495,Smith Smart Laptop,Electronics,Mobiles,722.29
+P0496,Vincent Compact Biography,Books,Non-Fiction,100.65
+P0497,Rubio Modern Textbook,Books,Fiction,348.23
+P0498,Charles Deluxe Novel,Books,Comics,547.52
+P0499,Watson Eco Sneakers,Clothing,Kids,222.16
+P0500,Stewart Modern Novel,Books,Non-Fiction,496.48

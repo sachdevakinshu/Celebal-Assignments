@@ -1,0 +1,28 @@
+======================================================================
+DATA QUALITY REPORT - E-Commerce Order Analytics
+======================================================================
+
+ORDERS
+Rows in / out: 2000 / 1997
+NULL or empty customer_id: 100 (kept as guest orders, customer_id set to NULL)
+Dates in wrong DD-MM-YYYY format : 60 (converted to YYYY-MM-DD HH:MM:SS)
+Unparseable dates: 0 (dropped)
+Future-dated orders: 3 (dropped) -> ['O00039', 'O00194', 'O01438']
+
+ORDER ITEMS
+Rows in / out: 5000 / 4977
+Referencing non-existent orders: 23 (dropped)
+missing order_ids: ['O00039', 'O00194', 'O01438', 'O99900', 'O99901', 'O99902', 'O99903', 'O99904', 'O99905', 'O99906', 'O99907', 'O99908', 'O99909', 'O99910', 'O99911', 'O99912', 'O99913', 'O99914']
+discount_percent out of 0-100: 5 (clamped) -> ['I00987', 'I01430', 'I01515', 'I03494', 'I03965']
+Zero quantity: 5 (kept, contribute no revenue) -> ['I00191', 'I01241', 'I01837', 'I03354', 'I03366']
+Negative quantity(returns): 150 (kept - legitimate returns)
+
+PRODUCTS
+Rows: 500
+Names normalized (spaces/case): 30
+
+CUSTOMERS
+Rows: 800
+Invalid emails: 16 -> ['C0153', 'C0290', 'C0306', 'C0341', 'C0354', 'C0458', 'C0496', 'C0502', 'C0552', 'C0557', 'C0566', 'C0594', 'C0602', 'C0676', 'C0744', 'C0782']
+
+======================================================================
